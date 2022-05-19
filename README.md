@@ -1,9 +1,12 @@
-#DIO
-#Introdução ao React Native
+
+# DIO
+
+# Introdução ao React Native
 
 ![ExemploAppReact](https://user-images.githubusercontent.com/23404398/169380655-8b264343-59c5-42a0-87ef-b5352b0d110e.jpg)
 
-#Conteúdo
+# Conteúdo
+
 - Conhecendo o React Native
   - O que é react-native?
   - O que é cross-platform?
